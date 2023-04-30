@@ -1,5 +1,7 @@
 # Bin2Dec
 
+link: https://vercel.com/joao2223/bin2-dec
+
 **Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on.
