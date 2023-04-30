@@ -1,6 +1,6 @@
 # Bin2Dec
 
-link: https://vercel.com/joao2223/bin2-dec
+link: https://bin2-dec-peach.vercel.app/
 
 **Tier:** 1-Beginner
 
