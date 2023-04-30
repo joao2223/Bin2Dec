@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt"">
+<head>
+    <meta charset=" UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/css/reset.css">
+<link rel="stylesheet" href="/css/style.css">
+<title>Bin2Dec</title>
+</head>
+
+<body>
+    <header>
+        <p class="titulo_site">Bin2Dec</p>
+    </header>
+
+    <body>
+        <div>
+            <p class="texto_insere">Insira o número em binário:</p>
+            <div class="campo_insere">
+                <input type="text" class="recebe_binario" data-bin="binario" pattern="[01]*" title="Insira apenas 0 ou 1" data-input="input">
+                <input type="submit" class="botao_decodificar" data-botao="botao_decodificar" value="Converter">
+            </div>
+            <p class="texto_insere">O número em decimal é :</p>
+            <div class="caixa_numero">
+                <input class="saida_numero recebe_binario" data-numero="decimal" readonly>
+            </div>
+        </div>
+
+    </body>
+    <script src="js/main.js"></script>
+</body>
+
+
+</html>
